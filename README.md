@@ -1,5 +1,6 @@
 # ![RealWorld Example App using Kotlin and Spring](example-logo.png)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce024208a15149748ae490493058bdf3)](https://app.codacy.com/gh/quannt-symper/spring-boot-example?utm_source=github.com&utm_medium=referral&utm_content=quannt-symper/spring-boot-example&utm_campaign=Badge_Grade)
 [![Actions](https://github.com/gothinkster/spring-boot-realworld-example-app/workflows/Java%20CI/badge.svg)](https://github.com/gothinkster/spring-boot-realworld-example-app/actions)
 
 > ### Spring boot + MyBatis codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
